@@ -24,13 +24,6 @@ it will purchase a Number Automatically from the SMS-Activate Website & it will 
 ![*](https://www.kenzabyte.com/wp-content/uploads/2024/03/Telegram-bulk-account-Creator-Folders.webp)
 
 
-## Video Tutorial :-
-
-⭐ Telegram Bulk account Maker using SMS-Activate API Video.
-
-[![*](http://www.kenzabyte.com/wp-content/uploads/2024/03/Automatic-Telegram-Accounts-Creator-sms-activate.png)](https://www.youtube.com/watch?v=Dzl5na4tyMs)
-
-
 ## Contact Details :-
 
 If you have any Business Proposal, you can contact us using the Below Contact Details
