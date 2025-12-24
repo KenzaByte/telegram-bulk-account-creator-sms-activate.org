@@ -22,4 +22,7 @@ print(f"{greenc}[*] www.KenzaByte.com")
 print()
 print(f"{cyanc}[*] Contact : https://www.kenzabyte.com/contact-us/")
 print()
+print(f"{cyanc}[*] https://www.kenzabyte.com/product/sms-activate-telegram-account-creator/")
+print()
 a=input("[*] Press any key to exit...")
+
